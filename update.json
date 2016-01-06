@@ -1,0 +1,15 @@
+{
+  "packageManager": "github",
+  "name": "subschema",
+  "repo": "subschema/subschema",
+  "files": {
+    "include": ["dist/subschema-noreact.js",
+"dist/subschema-noreact.js.map",
+"dist/subschema-server.js",
+"dist/subschema-server.js.map",
+"dist/subschema.css",
+"dist/subschema.css.map",
+"dist/subschema.js",
+"dist/subschema.js.map"]
+  }
+}
